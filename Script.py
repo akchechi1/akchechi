@@ -14,7 +14,9 @@ def is_enabled(value, default):
 
 class script(object):
     HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://telegram.dog/VK_LINKZ')
-    START_TXT = environ.get("START_TXT", "𝙷𝙴𝙻𝙾 {}")
+    START_TXT = """ 🌚 𝐇𝐞𝐲 𝐃𝐞𝐚𝐫.. {} 
+    
+    🙋‍𝑰 𝑨𝒎 𝑨𝒏 𝑺𝒖𝒑𝒆𝒓 𝑨𝒖𝒕𝒐𝒇𝒊𝒍𝒕𝒆𝒓𝒃𝒐𝒕 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑩𝒐𝒕 𝑻𝒐 𝑷𝒓𝒐𝒗𝒊𝒅𝒆 𝑴𝒐𝒗𝒊𝒆𝒔 𝑰𝒏 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎 𝑮𝒓𝒐𝒖𝒑𝒔...\n 😉𝑱𝒖𝒔𝒕 𝑨𝒅𝒅 𝑴𝒆 𝑻𝒐 𝒀𝒐𝒖𝒓 𝑮𝒓𝒐𝒖𝒑 𝒘𝒊𝒕𝒉 𝑨𝒅𝒎𝒊𝒏 𝑹𝒊𝒈𝒉𝒕𝒔 𝑨𝒏𝒅 𝑺𝒆𝒆 𝑴𝒚 𝑴𝒂𝒈𝒊𝒄..💖\n\n𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 ❤️ 𝙱𝚈
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✪ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href='https://telegram.dog/Abt_Mine'>𝚃𝙷𝙸𝚂 𝙿𝙴𝚁𝚂𝙾𝙽 😃</a>

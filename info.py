@@ -92,11 +92,11 @@ if SELF_DELETE == "True":
     SELF_DELETE = True
 
     # Download Tutorial Button #
-DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
-DOWNLOAD_TEXT_URL = "https://t.me/how_2d_vk/4"
+DOWNLOAD_TEXT_NAME = "⛱️ 𝙷𝙾𝚆 𝚃𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 🌟"
+DOWNLOAD_TEXT_URL = "https://t.me/how_2d_vk/5"
 
    # Custom Caption Under Button #
-CAPTION_BUTTON = "Suscribe"
+CAPTION_BUTTON = "🦋 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 🖤"
 CAPTION_BUTTON_URL = "https://telegram.dog/VK_LINKZ"
 
    # Auto Delete For Bot Sending Files #
